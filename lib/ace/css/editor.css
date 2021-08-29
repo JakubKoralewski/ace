@@ -165,8 +165,8 @@ styles.join("\n")
 .ace_text-input {
     position: absolute;
     z-index: 0;
-    width: 0.5em;
-    height: 1em;
+    width: 100%;
+    height: 100%;
     opacity: 0;
     background: transparent;
     -moz-appearance: none;
